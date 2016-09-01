@@ -1,4 +1,9 @@
 {
-	"js":"jquery.onepage-scroll.min.js",
+	"dependencies": "event",
+	"js":[
+		"jquery.onepage-scroll.min.js",
+		"infra.js"
+	],
+	"off":true,
 	"css":"onepage-scroll.css"
 }
